@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C128Guy
 - 👀 I’m interested in ... Amiga
 - 🌱 I’m currently learning ... how to solder. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... nothing.  I'm just here to hack your designs.
 - 📫 How to reach me ... Some men you just can reach.
 
 <!---
