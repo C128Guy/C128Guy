@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @C128Guy
-- 👀 I’m interested in ... Amiga
-- 🌱 I’m currently learning ... how to solder. 
-- 💞️ I’m looking to collaborate on ... nothing.  I'm just here to hack your designs.
-- 📫 How to reach me ... Some men you just can reach.
+- 👀 I’m interested in ... Commodore.
+- 🌱 I’m currently know just enough to be dangerous to anyone's project.
+
 
 <!---
 C128Guy/C128Guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
